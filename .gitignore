@@ -61,4 +61,7 @@ typings/
 # next.js build output
 .next
 
+# misc
+.DS_Store
+
 media
