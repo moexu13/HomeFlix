@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       body-parser:
-        specifier: ^1.18.3
+        specifier: ^1.20.2
         version: 1.20.2
       cookie-parser:
         specifier: ^1.4.6
@@ -21,7 +21,7 @@ importers:
         specifier: ^16.4.5
         version: 16.4.5
       express:
-        specifier: ^4.16.4
+        specifier: ^4.19.2
         version: 4.19.2
       fs-walk:
         specifier: ^0.0.2
@@ -33,10 +33,10 @@ importers:
         specifier: ^2.1.35
         version: 2.1.35
       morgan:
-        specifier: ^1.9.1
+        specifier: ^1.10.0
         version: 1.10.0
       serve-favicon:
-        specifier: ^2.4.5
+        specifier: ^2.5.0
         version: 2.5.0
 
 packages:
